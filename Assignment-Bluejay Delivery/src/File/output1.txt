@@ -1,0 +1,78 @@
+
+Employee who work for 7 consecutive days
+ 
+Employee name "CeWdEza    Position WFS000465
+Employee name "HerWaWdez SaWchez    Position WFS000581
+Employee name "WiXXiaCs    Position WFS000511
+Employee name "VasqAez    Position WFS000391
+Employee name "HaCiXMEW    Position WFS000536
+Employee name "Xee    Position WFS000200
+Employee name "Caxies    Position WFS000500
+Employee name "Diaz GaXvez    Position WFS000551
+Employee name "Perez    Position WFS000517
+Employee name "DeXgadiXXE REdarMe    Position WFS000523
+Employee name "VaXderraCa CasMiXXE    Position WFS000573
+Employee name "JerEWiCE CEraXes    Position WFS000557
+Employee name "ChaCErE    Position WFS000509
+Employee name "EXivares    Position WFS000508
+Employee name "PayaW    Position WFS000368
+Employee name "AGeX    Position WFS000588
+Employee name "SiWgh    Position WFS000424
+Employee name "WgAyeW    Position WFS000589
+Employee name "SaWchez PaCpXEWa    Position WFS000521
+Employee name "SaWchez    Position WFS000577
+Employee name "SavaWg    Position WFS000393
+Employee name "HAWMer    Position WFS000538
+Employee name "CAevas ZavaXa    Position WFS000571
+Employee name "XariEs    Position WFS000587
+Employee name "WiXGard    Position WFS000436
+Employee name "MraW    Position WFS000345
+Employee name "PaAXE    Position WFS000460
+Employee name "CharXes    Position WFS000566
+Employee name "PaXaciE    Position WFS000434
+Employee name "GrACfieXd    Position WFS000515
+Employee name "Arias    Position WFS000170
+Employee name "HerCEsiXXE    Position WFS000185
+Employee name "XariEs XaWdaverde    Position WFS000572
+Employee name "GAeWdia    Position WFS000473
+Employee name "CaMaXaWE    Position WFS000153
+Employee name "GaXCes    Position WFS000127
+Employee name "HEGGie ErMega    Position WFS000549
+Employee name "MErres    Position WFS000174
+Employee name "XEpes    Position WFS000196
+Employee name "DiXXard    Position WFS000519
+Employee name "CeciWa    Position WFS000528
+Employee name "CaMXEck    Position WFS000362
+Employee name "AXvarez    Position WFS000457
+Employee name "REdrigAez    Position WFS000550
+Employee name "XiWW    Position WFS000462
+Employee name "MaXeGi    Position WFS000364
+Employee name "XEpez WAWez    Position WFS000522
+Employee name "RAvaXcaGa GaWAeXEs    Position WFS000556
+Employee name "SiWgXeMEW    Position WFS000426
+Employee name "CaXdEWadE    Position WFS000463
+Employee name "ArCeWMa FXEres    Position WFS000584
+Employee name "REsaXiaWE    Position WFS000065
+Employee name "CErMes    Position WFS000495
+Employee name "ZaCEra    Position WFS000499
+Employee name "MAake    Position WFS000228
+Employee name "Merrazas    Position WFS000180
+Employee name "GarWes    Position WFS000181
+Employee name "SMrickXaWd    Position WFS000555
+Employee name "FeXix    Position WFS000183
+Employee name "CEMMa    Position WFS000503
+Employee name "ErMiz    Position WFS000372
+Employee name "KaAr    Position WFS000432
+Employee name "EsMrada    Position WFS000552
+Employee name "ErEpeza    Position WFS000382
+Employee name "De Xa Cerda    Position WFS000318
+Employee name "MAcker    Position WFS000360
+Employee name "ArEsMigAi    Position WFS000306
+Employee name "EasMCaW    Position WFS000414
+Employee name "Sparks    Position WFS000101
+Employee name "RaCEs HerWaWdez    Position WFS000585
+Employee name "GaWks    Position WFS000226
+Employee name "CercadE    Position WFS000496
+Employee name "CcRAWWeX    Position WFS000501
+Employee name "IWGEAa    Position WFS000546
+Employee name "ErEzcE    Position WFS000442
