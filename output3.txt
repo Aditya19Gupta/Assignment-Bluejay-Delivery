@@ -1,0 +1,13 @@
+
+Employee who have less than 10 hours of time between shifts but greater than 1 hour
+ 
+Employee Name: "CaMaXaWE, Position: WFS000153
+Employee Name: "Xee, Position: WFS000200
+Employee Name: "Xee, Position: WFS000200
+Employee Name: "Xee, Position: WFS000200
+Employee Name: "De Xa Cerda, Position: WFS000318
+Employee Name: "MraW, Position: WFS000345
+Employee Name: "CEreira Jr, Position: WFS000456
+Employee Name: "DeXgadiXXE REdarMe, Position: WFS000523
+Employee Name: "HaCiXMEW, Position: WFS000536
+Employee Name: "CarMer, Position: WFS000576
